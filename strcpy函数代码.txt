@@ -27,3 +27,7 @@ char *StrCpy(char* src)
                 return result;//5、返回新申请的内存空间指针
 
 }
+
+/**
+本地编辑
+**/
